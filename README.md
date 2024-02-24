@@ -2,21 +2,20 @@
 
  ## 💫 About me:
  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761155c5lrewc1qeyb18mwnrc370h3xr5m5fjb2m8he1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Navodya Sesini Fernando</h1>
 <h3 align="center">Former Software Engineer intern at Sri Lanka Telecom | Computer Science undergraduate at University of Ruhuna | Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kusham&label=Profile%20views&color=0e75b6&style=flat" alt="kusham" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sesini1998&label=Profile%20views&color=0e75b6&style=flat" alt="sesini1998" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kushanmadhusan5" target="blank"><img src="https://img.shields.io/twitter/follow/kushanmadhusan5?logo=twitter&style=for-the-badge" alt="kushanmadhusan5" /></a> </p>
 
-- 🌱 I’m currently reading **Information Technology degree.**
+- 🌱 I’m currently reading **Bachelor's in Computer Science degree.**
 
-- 📝 I regularly write articles on [https://medium.com/@kusham1998](https://medium.com/@kusham1998)
+- 📝 I regularly write articles on [https://medium.com/@navodyaaluthdurage](https://medium.com/@navodyaaluthdurage)
 
-- 📫 How to reach me **kushan.m.official@gmail.com**
+- 📫 How to reach me **navodyaaluthdurage@gmail.com**
 
 
 ## 🌐 Contact me:
