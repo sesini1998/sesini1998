@@ -35,8 +35,6 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sesini1998&show_icons=true&locale=en" /><br/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sesini1998&theme=radical&hide_border=false" /><br/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sesini1998&show_icons=true&locale=en&layout=compact" /><br/>
 </div>
 
