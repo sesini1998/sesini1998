@@ -21,7 +21,7 @@
 ## 🌐 Contact me:
 <p align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sesini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kushan-madhusanka/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sesini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kushan-madhusanka/" height="30" width="40" /></a>
 
 <a href="https://www.facebook.com/sesini.fernando?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kushan.madhusanka.737" height="30" width="40" /></a>
 
