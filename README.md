@@ -6,16 +6,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Navodya Sesini Fernando</h1>
-<h3 align="center">Software Engineer @ UUDS Aero DWC | Tech Enthusiast</h3>
+<h3 align="center">Software Engineer @ UUDS Aero DWC | Full Stack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sesini1998&label=Profile%20views&color=0e75b6&style=flat" alt="sesini1998" /> </p>
 
-
-- 🌱 I’m currently reading **Bachelor's in Computer Science degree.**
-
 - 📝 I regularly write articles on [https://medium.com/@navodyaaluthdurage](https://medium.com/@navodyaaluthdurage)
 
-- 📫 How to reach me **navodyaaluthdurage@gmail.com**
+- 📫 How to reach me **navodyase.official@gmail.com**
 
 
 ## 🌐 Contact me:
