@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Navodya Sesini Fernando</h1>
-<h3 align="center">Former Software Engineer intern at Sri Lanka Telecom | Computer Science undergraduate at University of Ruhuna | Tech Enthusiast</h3>
+<h3 align="center">Software Engineer @ UUDS Aero DWC | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sesini1998&label=Profile%20views&color=0e75b6&style=flat" alt="sesini1998" /> </p>
 
